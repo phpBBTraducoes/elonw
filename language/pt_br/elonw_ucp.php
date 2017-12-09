@@ -5,7 +5,7 @@
 *
 * @copyright (c) 2015 Rich McGirr
 * @license GNU General Public License, version 2 (GPL-2.0)
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.0.5] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.0.6] (https://github.com/phpBBTraducoes)
 */
 
 /**
